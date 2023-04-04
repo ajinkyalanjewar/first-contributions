@@ -10,6 +10,7 @@
 - NOELL BIJU MICHAEL
 - [Stanley Tsai](https://github.com/stanley880902)
 - [Ishan Dutta](https://github.com/ishandutta0098)
+- [Ajinkya] 
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
 - [Marc Ty](https://github.com/MarcT)
